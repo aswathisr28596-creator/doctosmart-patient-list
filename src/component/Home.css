@@ -19,7 +19,7 @@
   background: #f4f4f4;
 }
 
-/* 🔥 Mobile View */
+
 @media (max-width: 768px) {
   .patient-table thead {
     display: none;
